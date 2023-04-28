@@ -7,3 +7,6 @@ while c > 0:
     lista.append(num)
     c = c - 1
 print(lista)
+
+
+# teste de git
